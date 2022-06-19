@@ -1,2 +1,2 @@
-# Zuri-Django-Blo
+# Zuri-Django-Blog
 Simple Django Blog
